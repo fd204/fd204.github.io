@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Code Art NFT
-# email: your-email@example.com
+#email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Code Art NFT is a collection of unique art NFTs, created with computer code, 
   with a focus on randomness.
