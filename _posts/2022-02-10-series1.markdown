@@ -1,0 +1,27 @@
+---
+layout: single
+title:  "Welcome to Series1"
+date:   2022-02-09 19:19:18 +1100
+header:
+  image: /assets/images/circlesplash.png
+feature_row:
+  - image_path: /assets/images/circlesplash1.png
+    alt: "circles"
+    title: "Series 1 sample"
+  - image_path: /assets/images/circlesplash2.png
+    alt: "circles"
+    title: "Series 1 sample"
+  - image_path: /assets/images/circlesplash3.png
+    alt: "circles"
+    title: "Series 1 sample"
+---
+
+Code Art NFT is a collection of unique art NFTs, created with computer code, with a focus on randomness.
+
+Series 1 of Code Art NFT contains 1000 unique art NFTs and is all about circular patterns. Each NFT has a random number of randomly sized circles placed randomly on the canvas in random colours, to create an amazing affect.
+
+But this does create a question..... is the coder or the computer the artist?
+
+See below a couple of samples of the art to help visualise the concept. And if you like what you see, they can be purchased on [OpenSea](https://opensea.io/collection/code-art-nft-series1).
+
+{% include feature_row type="center" %}
