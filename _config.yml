@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Code Art NFT is a collection of unique art NFTs, created with computer code, 
   with a focus on randomness.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fd204.github.io/"
+url: "https://fd204.github.io"
 twitter_username: fd_204
 # github_username:  jekyll
 
